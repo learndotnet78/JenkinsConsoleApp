@@ -12,3 +12,4 @@ E:\repos2\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\net8.0\refint\JenkinsCon
 E:\repos2\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\net8.0\JenkinsConsoleApp.pdb
 E:\repos2\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\net8.0\JenkinsConsoleApp.genruntimeconfig.cache
 E:\repos2\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\net8.0\ref\JenkinsConsoleApp.dll
+E:\repos2\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\net8.0\JenkinsConsoleApp.sourcelink.json
