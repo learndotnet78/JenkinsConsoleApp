@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JenkinsConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3a4d1df54fe89d74a3485e487d410b4a5128abd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9dffae8a84801615181550052ea385553983924")]
 [assembly: System.Reflection.AssemblyProductAttribute("JenkinsConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JenkinsConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
