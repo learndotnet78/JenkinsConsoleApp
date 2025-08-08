@@ -1,8 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" 
-DefaultTargets="Build">
+Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' Or '$(Configuration)|$(Platform)' == 'Test|AnyCPU'">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
+	<OutputPath>bin\Release\</OutputPath>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
