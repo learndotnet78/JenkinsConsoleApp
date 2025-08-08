@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "E:\\repos2\\JenkinsConsoleApp\\JenkinsConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CE400C7-6551-40BD-8965-4CD81DC555EC}|JenkinsConsoleApp.csproj|e:\\repos2\\jenkinsconsoleapp\\jenkinsconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CE400C7-6551-40BD-8965-4CD81DC555EC}|JenkinsConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5CE400C7-6551-40BD-8965-4CD81DC555EC}|JenkinsConsoleApp.csproj|e:\\repos2\\jenkinsconsoleapp\\jenkinsconsoleapp\\jenkinsconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5CE400C7-6551-40BD-8965-4CD81DC555EC}|JenkinsConsoleApp.csproj|solutionrelative:jenkinsconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JenkinsConsoleApp.csproj",
+              "DocumentIndex": 0,
+              "Title": "JenkinsConsoleApp",
               "DocumentMoniker": "E:\\repos2\\JenkinsConsoleApp\\JenkinsConsoleApp\\JenkinsConsoleApp.csproj",
               "RelativeDocumentMoniker": "JenkinsConsoleApp.csproj",
               "ToolTip": "E:\\repos2\\JenkinsConsoleApp\\JenkinsConsoleApp\\JenkinsConsoleApp.csproj",
               "RelativeToolTip": "JenkinsConsoleApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-08T18:58:53.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\repos2\\JenkinsConsoleApp\\JenkinsConsoleApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\repos2\\JenkinsConsoleApp\\JenkinsConsoleApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T18:55:33.118Z",
+              "WhenOpened": "2025-08-08T19:57:01.715Z",
               "EditorCaption": ""
             }
           ]
