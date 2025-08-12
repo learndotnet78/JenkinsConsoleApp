@@ -7,7 +7,7 @@ pipeline {
                     timeout(time: 30, unit: 'MINUTES') // Applies only to this stage
                 }
             steps {
-                git branch: 'refs/remotes/origin/main', url: 'https://github.com/learndotnet78/JenkinsConsoleApp.git' // Replace with your repository URL
+                git branch: 'main', url: 'https://github.com/learndotnet78/JenkinsConsoleApp.git' // Replace with your repository URL
             }
         }
 
