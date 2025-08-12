@@ -3,9 +3,6 @@ pipeline {
 
     stages {
         stage('Checkout') {
-            options {
-                    timeout(time: 30, unit: 'MINUTES') // Applies only to this stage
-                }
             steps {
                 git branch: 'main', url: 'https://github.com/learndotnet78/JenkinsConsoleApp.git' // Replace with your repository URL
             }
