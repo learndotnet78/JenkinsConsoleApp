@@ -13,20 +13,20 @@ pipeline {
 
         stage('Restore Dependencies') {
             steps {
-                sh 'dotnet restore'
+                bat 'dotnet restore'
             }
         }
 
         stage('Build') {
             steps {
-                sh 'dotnet build --configuration Release'
+                bat 'dotnet build --configuration Release'
             }
         }
 
 
         stage('Publish') {
             steps {
-                sh 'dotnet publish --configuration Release --output E:\\.jenkins\\release'
+                bat 'dotnet publish --configuration Release --output E:\\.jenkins\\release'
             }
         }
 
