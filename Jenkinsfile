@@ -23,7 +23,7 @@ pipeline {
 
         stage('Publish') {
             steps {
-                sh 'dotnet publish --configuration Release --output E:\.jenkins\release'
+                sh 'dotnet publish --configuration Release --output E:\\.jenkins\\release'
             }
         }
 
