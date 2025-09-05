@@ -10,5 +10,6 @@ namespace JenkinsConsoleApp
     {
         public int DemoID { get; set; }
         public string DemoDescription { get; set; }
+        public string DemoDescription1 { get; set; }
     }
 }
